@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1072522655903",
+    "firebase_url": "https://tracker-ee085.firebaseio.com",
+    "project_id": "tracker-ee085",
+    "storage_bucket": "tracker-ee085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072522655903:android:c73dfccbe1b72179",
+        "android_client_info": {
+          "package_name": "com.alyafei.mytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072522655903-mdt4tbjo02hls0rcjt2cmvr60h3tuje1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGEa3Ms6DixvEHyG5qL2aoXqy07p6FQBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
